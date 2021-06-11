@@ -1,0 +1,9 @@
+.form {
+  width: 450px;
+  display: flex;
+  flex-direction: column;
+}
+
+p {
+  margin: 0;
+}
